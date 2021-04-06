@@ -1,6 +1,6 @@
 # PORTFOLIO
 
- This file summarizes some of the personal projects I'm working on. It's still under construction, so it can be updated at any time. 
+ This file summarizes some of the personal projects I'm working on. It's still under construction, so it can be updated at any time, along with the projects.
 
 ## Project 1: Copper Price Forecasting
 The objective of this project is to forecast the worldwide price of copper (metal). In Chile, there are 26 mining deposits that produce 5.7 million tons of copper per year, which represents 28% of world production. This relative abundance of copper has made it the main export of Chile and therefore its contribution is vital to the Chilean economy. Anticipating the price of copper allows the estimation of the profitability of related projects and their viability over time.
